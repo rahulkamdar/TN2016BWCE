@@ -1,1 +1,3 @@
-# TN2016BWCE
+# BANQ.IO Account Service
+
+![alt tag](/BanqIOAccountService.png)
