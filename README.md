@@ -11,3 +11,11 @@ This process here represents a simple account service app that:
 * Validates the customers
 * If invalid, returns with an error
 * If valid, proceeds to call the internal services to fetch the account data
+
+### Git Repository Contents
+
+This Git repository contains the BW Container Edition Design-time project with the Maven files (POM, properties) for deployment.
+
+### Contact
+
+For any questions, please reach out to the Integration Product Management team at TIBCO (integration-pm@tibco.com)
